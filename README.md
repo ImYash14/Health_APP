@@ -26,19 +26,19 @@ The Package uses in this project:
 
 Service demo images►
 Home page
-<img src="./src/demo_imgs/Home_page.png" alt="Home page" />
+<img src= "healthcare/healthcare-service-app-main/src/demo_imgs/Home_page.png" alt="Home page" />
 services page
-<img src="./src/demo_imgs/service_page.png" alt="services page" />
+<img src="healthcare/healthcare-service-app-main/src/demo_imgs/service_page.png" alt="services page" />
 doctors page
-<img src="./src/demo_imgs/doctors_page.png" alt="doctors page" />
+<img src="healthcare/healthcare-service-app-main/src/demo_imgs/doctors_page.png" alt="doctors page" />
 appointment page
-<img src="./src/demo_imgs/appointment_page.png" alt="appointment page" />
+<img src="healthcare/healthcare-service-app-main/src/demo_imgs/appointment_page.png" alt="appointment page" />
 about page
-<img src="./src/demo_imgs/about_page.png" alt="about page" />
+<img src="healthcare/healthcare-service-app-main/src/demo_imgs/about_page.png" alt="about page" />
 user profile
-<img src="./src/demo_imgs/user_profile.png" alt="user profile" />
+<img src="healthcare/healthcare-service-app-main/src/demo_imgs/user_profile.png" alt="user profile" />
 mobile view
-<img src="./src/demo_imgs/home_mobile_view.png" alt="mobile view" />
+<img src="healthcare/healthcare-service-app-main/src/demo_imgs/home_mobile_view.png" alt="mobile view" />
 
 -----------------Additional info-----------------
 # Getting Started with Create React App
